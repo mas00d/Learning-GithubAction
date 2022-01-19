@@ -1,2 +1,3 @@
 # Learning-GithubAction
-Practice with https://www.freecodecamp.org/news/build-your-first-javascript-github-action/
+Learning from https://www.freecodecamp.org/news/build-your-first-javascript-github-action/
+Adds pull request file changes as a comment to a newly opened PR

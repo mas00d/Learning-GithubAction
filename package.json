@@ -1,0 +1,24 @@
+{
+  "name": "Learning-GithubAction",
+  "version": "1.0.0",
+  "description": "Practice with https://www.freecodecamp.org/news/build-your-first-javascript-github-action/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mas00d/Learning-GithubAction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mas00d/Learning-GithubAction/issues"
+  },
+  "homepage": "https://github.com/mas00d/Learning-GithubAction#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
